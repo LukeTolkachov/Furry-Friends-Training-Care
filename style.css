@@ -1,0 +1,412 @@
+@charset "utf-8";
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.container img {
+    padding-top: 0rem;
+    padding-right: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
+    margin-top: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+
+
+}
+
+
+
+
+
+#header {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-family: "Brygada 1918";
+    color: #FFFFFF;
+}
+
+.navbar-nav.mr-auto .nav-item .nav-link:hover {
+    font-family: "Brygada 1918";
+    color: #FABE96;
+    text-align: left;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    margin-left: 27px;
+
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark #navbarSupportedContent1 .navbar-nav.mr-auto {
+    font-size: x-large;
+    margin-left: 35%;
+}
+
+h6 {
+    font-family: "Brygada 1918";
+    color: #FABE96;
+    border: thick solid #765D69;
+    background-color: #765D69;
+}
+body main img {
+    width: 50%;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    float: right;
+    border-radius: 95px;
+}
+
+#footer {
+    text-align: center;
+    clear: both;
+    bottom: -10px;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    right: 0px;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark {
+    background-image: -webkit-linear-gradient(270deg,rgba(118,93,105,1.00) 0%,rgba(118,93,105,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(118,93,105,1.00) 0%,rgba(118,93,105,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(118,93,105,1.00) 0%,rgba(118,93,105,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(118,93,105,1.00) 0%,rgba(118,93,105,1.00) 100%);
+
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark .navbar-brand {
+    background-image: url(images/logo.png);
+    font-family: ultra;
+    font-style: normal;
+    font-weight: 400;
+}
+
+main {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 56px;
+}
+h2 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 12px;
+    background-color: #E7AA52;
+    padding-top: 3rem;
+    font-size: xx-large;
+}
+
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+
+}body {
+    background-image: url(images/gradbackground.png);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFE8DA;
+}
+body aside img {
+    width: 42%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-top: -25%;
+    margin-left: 38%;
+    display: block;
+    float: right;
+    text-align: right;
+}
+body form {
+    font-size: xx-large;
+}
+.across {
+    font-family: "Brygada 1918";
+    text-align: center;
+}
+.across label {
+    margin-left: 3rem;
+
+}
+
+#submit {
+    margin-top: 10px;
+    font-family: "Brygada 1918";
+    text-align: left;
+}
+#carouselExampleIndicators1 {
+    margin-top: -14px;
+    height: 100%;
+}
+.homeimage {
+    width: 35%;
+    position: static;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 1%;
+}
+.homepara header2 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.homepara {
+    font-family: "Brygada 1918";
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    width: 46%;
+    margin-left: 0px;
+    float: right;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-right: 2rem;
+    margin-top: 5rem;
+}
+body p {
+}
+section {
+    float: right;
+    clear: left;
+    text-align: right;
+}
+.headhome {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+.logoimage {
+    width: 40%;
+}
+.fa {
+    margin-left: 7px;
+    padding-left: 0px;
+    color: #FFFFFF;
+    width: 1%;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark .navbar-brand img {
+    width: 69%;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark a img {
+    width: 57%;
+}
+#footer h6 img {
+    width: 19%;
+}
+.across #fname {
+    margin-left: 1rem;
+}
+.across #email {
+    margin-left: 1rem;
+}
+.across #phone {
+    margin-left: 1rem;
+}
+
+
+
+
+
+.across #lname {
+    margin-left: 1rem;
+}
+form fieldset legend {
+    margin-left: 6rem;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.across #mobile {
+    margin-left: 1rem;
+}
+body header {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 2rem;
+}
+.homehead {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    text-align: right;
+    font-size: x-large;
+}
+.aboutpara {
+    font-family: "Brygada 1918";
+    text-align: center;
+    font-size: xx-large;
+    width: 49%;
+    float: right;
+}
+body h3 {
+    text-align: center;
+}
+.form-group #submit {
+    text-align: center;
+}
+.aside {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px){
+body aside img {
+    width: 100%;
+    padding-left: 0%;
+    padding-top: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+    margin-top: 9%;
+    margin-left: 0%;
+    display: inherit;
+    float: right;
+    min-width: 100%;
+}
+form fieldset legend {
+    text-align: center;
+    font-size: x-large;
+    margin-left: 1rem;
+}
+
+body form {
+    font-size: xx-large;
+    text-align: center;
+}
+.across {
+    font-family: "Brygada 1918";
+    text-align: center;
+}
+.aboutpara {
+    font-size: small;
+}
+
+
+
+
+
+
+
+}
+.homeimage {
+}
+body header2 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.logoimage {
+}
+
+@media (max-width: 816px){
+.homeimage {
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 12rem;
+}
+.homepara {
+    text-align: center;
+    width: 92%;
+}
+
+
+}
+
+@media (max-width: 654px){
+.homeimage {
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 7rem;
+    width: 63%;
+}
+body main h2 {
+    margin-top: 7rem;
+}
+.navbar.fixed-top.navbar-expand-lg.navbar-dark.bg-dark .navbar-toggler .navbar-toggler-icon {
+    padding-left: 36rem;
+
+}
+
+
+.homepara {
+    text-align: center;
+    width: 92%;
+}
+
+
+}
+
+@media (max-width: 768px){
+body aside img {
+    float: right;
+    width: 0%;
+}
+
+}
+
+.grid-container{
+	display: grid;
+	grid-column-gap: 30px;
+	grid-template-columns: 350px 350px 350px;
+	justify-content: center;
+}
+
+
+.grid-item {
+	height: 350px;
+	
+}
